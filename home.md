@@ -2,10 +2,10 @@
 lang-ref: home
 layout: home
 preTitle: Hosted Portal
-title: Biodiversity Data Journal
-description: Browse data on GBIF associated with publications in Biodiversity Data Journal
-background: /assets/images/placeholders/bdj-hp-cover.jpg
-imageLicense: Potter ME, Bremer JS, Moore MR, Talamas EJ, Shrewsbury PM (2023) _Telenomus cristatus_ Johnson (Hymenoptera, Scelionidae) new diagnostic data, distribution records and host associations. Biodiversity Data Journal 11, [https://doi.org/10.3897/BDJ.11.e111347](https://doi.org/10.3897/BDJ.11.e111347)
+title: Subterranean Biology
+description: Browse data on GBIF associated with publications in Subterranean Biology
+background: /assets/images/placeholders/hp-cover.jpg
+imageLicense: "Kos A, Delić T, Kos I, Kozel P, Polak S, Zagmajster M (2023) The overview of lithobiomorph centipedes (Chilopoda, Lithobiomorpha) from caves of Slovenia. Subterranean Biology 45: 165-185. [https://doi.org/10.3897/subtbiol.45.101430](https://doi.org/10.3897/subtbiol.45.101430)"
 height: 75vh
 cta:
   - text: Datasets

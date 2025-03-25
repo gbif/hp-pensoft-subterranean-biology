@@ -2,25 +2,17 @@
 lang-ref: about
 title: About
 # description: Lorem markdownum spatium limes indefessus neque at orat aestuat
-background: /assets/images/placeholders/bdj-hp-about.jpg
+background: /assets/images/placeholders/hp-about.jpg
 imageLicense: |
-  Yu H, Zhang C, Lu Q, Lin Y (2024) A survey of Hersilia spiders (Araneae, Hersiliidae) from Xishuangbanna, Yunnan Province, China. Biodiversity Data Journal 12: e142805. [https://doi.org/10.3897/BDJ.12.e142805](https://doi.org/10.3897/BDJ.12.e142805)
+  Hoch H, Sendra A, Montagud S, Teruel S, Ferreira RL (2021) First record of a cavernicolous Kinnaridae from the Old World (Hemiptera, Auchenorrhyncha, Fulgoromorpha, Kinnaridae, Adolendini) provides testimony of an ancient fauna. Subterranean Biology 37: 1-26. [https://doi.org/10.3897/subtbiol.37.60483](https://doi.org/10.3897/subtbiol.37.60483)
 height: 70vh
 ---
 
-This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Biodiversity Data Journal](https://bdj.pensoft.net/).
+This is а GBIF Hosted Portal, displaying data extracted or associated with articles published in [Subterranean Biology](https://subtbiol.pensoft.net/).
 
-**Biodiversity Data Journal (BDJ)** is a community peer-reviewed, open access, comprehensive online platform, designed to accelerate publishing, dissemination and sharing of biodiversity-related data of any kind. All structural elements of the articles – text, morphological descriptions, occurrences, data tables etc. – will be treated and stored as data, in accordance with the Data [Publishing Policies and Guidelines of Pensoft Publishers](https://doi.org/10.3897/rio.3.e12431).
+**Subterranean Biology** is an international journal published by Pensoft on behalf of the International Society for Subterranean Biology [SIBIOS-ISSB] for the publication of original and significant contributions on all aspects of subterranean life.
+The Journal will consider original scientific papers dealing with any aspect of subterranean ecosystems and their components focusing on biology, ecology, evolution and conservation.
+Reviews and Commentaries: The journal welcomes review articles on aspects of subterranean biology. They should be submitted in the same way as research articles but use a simple layout with no more than three levels of headings. Commentaries on previous matter published in the journal may be also considered. Both reviews and commentaries will be reviewed.
+Book Reviews: Reviews of books, symposia volumes and conferences pertinent to the journal are welcome.
 
-The journal will publish papers in biodiversity science containing taxonomic, floristic/faunistic, morphological, genomic, phylogenetic, ecological or environmental data on any taxon of any geological era from any part of the world with no lower or upper limit to manuscript size. For example:
-
-* single taxon treatments and nomenclatural acts (e.g., new taxa, new taxon names, new synonyms, changes in taxonomic status, re-descriptions, etc.);
-* data papers describing biodiversity-related databases, including ecological and environmental data;
-* sampling reports, local observations or occasional inventories, if these contain novel data;
-* local or regional checklists and inventories;
-* habitat-based checklists and inventories;
-* ecological and biological observations of species and  communities;
-* any kind of identification keys, from conventional dichotomous to multi-access interactive online keys;
-* descriptions of biodiversity-related software tools.
-  
-For more information, you may look at the Editorial [Beyond dead trees: integrating the scientific process in the Biodiversity Data Journal](https://bdj.pensoft.net/articles.php?id=995) and press release [The Biodiversity Data Journal: Readable by humans and machines](http://www.eurekalert.org/pub_releases/2013-09/pp-tbd091613.php).
+The journal publishes electronic versions of the articles when these are ready to publish, without delays that might be caused by completion of an issue. These electronic versions are not "pre-prints" but final and immutable (Version of Record), hence available for the purposes of biological nomenclature. The date indicated on the electronic version is to be considered the actual publication date.
